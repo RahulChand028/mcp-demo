@@ -1,0 +1,10 @@
+langgraph==0.2.56
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-groq
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+duckduckgo-search
+langchain-mcp-adapters
